@@ -2,6 +2,8 @@
 
 A customized **Dear ImGui** codebase for building modern, lightweight Windows GUI interfaces with a DirectX 11 rendering backend and a collection of custom UI widgets.
 
+Made by me entirely, this source is nowhere near perfect. You are free to improve on it if you wish.
+
 This repository includes the Dear ImGui core, Win32 and DirectX 11 backends, custom `ImAdd` widgets, and bundled font resources.
 
 ## Features
